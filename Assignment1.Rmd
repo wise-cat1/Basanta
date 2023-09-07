@@ -1,0 +1,23 @@
+---
+title: "WILD 7970 Assignment 1"
+author: "Basanta Shrestha"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+
+```{r cars}
+# Assignment 1: summary of paper "ChatGPT: five priorities for research"
+#summary: "OpenAI's ChatGPT, a powerful AI tool, is revolutionizing research with its content creation capabilities. Researchers now harness it for tasks from essay writing to potentially aiding editorial decisions. However, its prowess isn't without pitfalls. The model can sometimes produce misleading content, posing risks of misinformation in scientific circles. There's also a gray area regarding potential unintentional plagiarism and authorship concerns with AI-generated content. For me, the growing use of AI tools like ChatGPT in scientific endeavors underscores the importance of transparency. Who really owns AI-generated content, and how do we handle authorship? As AI blurs these lines, it's essential for the scientific community to establish clear guidelines. Moreover, with AI giants like OpenAI often keeping their tech proprietary, I'm intrigued by pushes for open-source AI, which might democratize and clarify AI's role in research.As AI reshapes academia, we must balance innovation with ensuring the integrity and authenticity of our work. The essence of research—curiosity and discovery—should always remain at its core."
+
+```
+
