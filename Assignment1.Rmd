@@ -7,6 +7,9 @@ output:
   html_document: default
 ---
 
+<span style="color:red">Please see my comments in the "Journal.rmd" file. - Jonathon</span>
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
