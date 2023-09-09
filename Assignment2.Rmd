@@ -1,0 +1,23 @@
+---
+title: "WILD 7970 Assignment 2"
+author: "Basanta Shrestha"
+date: "`r Sys.Date()`"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+
+```{r cars}
+# Assignment 2: summary of paper "Equitable hiring strategies"
+#summary: "In my opinion, Faculty hiring hasn't always been fair. In the past, many groups like LGBTQ+, Black, Hispanic, and Indigenous people often got left out. This isn't just bad for them; it also slows down our scientific progress and makes things unequal. Before we even start hiring, we need to make sure our departments are welcoming for everyone. Using clear guidelines and rules can help everyone get a fair chance during hiring. It's also super important to be clear and fair when we're interviewing people and offering them jobs. If we're serious about making our teams diverse, we need to fix any unfair practices and make sure everyone knows what's expected. This way, we can make sure our faculty represents all parts of our community."
+
+```
+
