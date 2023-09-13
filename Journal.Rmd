@@ -16,6 +16,11 @@ summary: "OpenAI's ChatGPT, a powerful AI tool, is revolutionizing research with
 
 <span style="color:red">Good summary. AI is exciting and scary at the same time. One of the things we talked about in class was whether there are core parts of the scientific process that need to remain in the hands of the scientist and that should never be outsourced to a machine. If the answer is "nothing" then what do we need scientists for? Just some food for thought. - Jonathon</span>
 
+<mark> You can separate your weekly summaries by typing three dashes as shown below. Ani
+
+---
+
+
 # Assignment 2:
 
 <span style="color:red">Go ahead and type your response to Assignment 2 right here and keep adding to your journal each week.</span>
