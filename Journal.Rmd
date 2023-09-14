@@ -29,3 +29,5 @@ summary: "In my opinion, Faculty hiring hasn't always been fair. In the past, ma
 # Assignment 3: Summary of Reproducibility
 
 summary: "Although the term "reproducibility" was new to me, I've already encountered some of the challenges it represents during my grad school research. Human tendencies, like seeing patterns where none exist, can misguide results. Such biases sometimes lead researchers to either myopic focuses or data manipulation. Andrew Gelman's 2013 paper and the wrongful conviction of Sally Clark serve as cautionary tales. However, innovative methods, like "Blind Data Analysis" in physics, promise more accurate and bias-free outcomes, adding a layer of excitement and confidence to the scientific process."
+
+<mark> Glad you learned something new! - Jonathon
