@@ -42,13 +42,19 @@ Summary: "In my opinion, citizen science is transformative, especially in ecolog
 
 <span style="color:red">Agreed. I was playing devil's advocate a bit in class today, but I think there is a lot of valuable uses for citizen science data. We just need to make sure to recognize it is no silver bullet for answering all of our research questions. - Jonathon</span>
 
-#Assignment 6: Hypotheses reading
+# Assignment 6: Hypotheses reading
 Summary: "From the paper, I've learned that the use of hypotheses in ecological and evolutionary research has been surprisingly stagnant over the past 25 years, despite their historical significance in fostering discovery and mitigating bias. While the digital age and the emergence of predictive models cast doubts on the current relevance of hypotheses, their limited presence in eco-evo research raises questions. Notably, funding or citation metrics don't seem to favor hypothesis-driven work. Yet, the authors emphasize the unparalleled clarity, precision, and depth that multiple alternative hypotheses can introduce to research, urging for a reevaluation of their importance, which I completely agree."
 
-#Assignment 7: Predatory Journals
+<span style="color:red">Perhaps good ideas are good ideas whether they are clearly stated as hypotheses or not? - Jonathon</span>
+
+# Assignment 7: Predatory Journals
 Summary: "At this point, it’s clear that predatory journals exist, and their prevalence is increasing day by day. However, there is significant confusion regarding the definition of predatory journals and determining which ones are predatory and which are not. There is an urgent need to control or eliminate predatory journals, but there seems to be no consensus among scholars and the scientific community on how to achieve this. I have prepared a presentation with some relevant materials, and I hope we will have a productive discussion about this issue in class."
 
-#Assignment 8: Pre-Registration:
+<span style="color:red">We did indeed. Defining a predatory journal is the real sticky point for me. How do you distinguish between a journal that is ill-intentioned vs. one that is just kind of figuring out the process? - Jonathon</span>
+
+# Assignment 8: Pre-Registration:
 Summary: "The paper reveals the positive effects of preregistration in social and behavioural sciences, emphasizing its role in reducing confirmation bias by clarifying research plans in advance. Those with experience in preregistration often find it improves the overall quality of research, aiding in hypothesis formation, design, and analysis. The survey also indicates that preregistration enhances preparation and
 collaboration among research teams, contributing to a more structured and reliable research process. However, despite these benefits, I think there are notable drawbacks. Preregistration can limit flexibility and
 discourage the exploration of new ideas during research. It may also introduce added complexities, making the process challenging, particularly for newcomers. But in my opinion, the major concern is, it could lead to a narrow focus on testing hypotheses, overshadowing the development of broader theories and limiting the applicability of the research in various contexts, suggesting a need for a more balanced and adaptable approach."
+
+<span style="color:red">Yes, this was the general consensus in class. The inflexibility of the approach, coupled with the increased review time, seems to scare a lot of folks. Note that you will only receive half credit for this entry given you were not in class today. - Jonathon</span>
